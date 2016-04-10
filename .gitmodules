@@ -1,0 +1,3 @@
+[submodule "lib/pygcurse"]
+	path = lib/pygcurse
+	url = git@github.com:asweigart/pygcurse.git
